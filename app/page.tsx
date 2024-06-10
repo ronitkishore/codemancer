@@ -10,7 +10,7 @@ export default async function Login() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center">
-      <h1 className="text-6xl font-bold mb-8">Welcome to Code Review Tool</h1>
+      <h1 className="text-6xl font-bold mb-8">Welcome to Codemancer</h1>
       <p className="text-lg mb-4">Please sign in to access.</p>
       <a
         href="/api/auth/signin"
